@@ -8,3 +8,4 @@ The course covered:
 - Object-Oriented Programming concepts  
 - Exception handling, collections, and streams  
 - Hands-on assignments and projects
+This repository serves as proof of my Java programming skills and dedication to continuous learning.
